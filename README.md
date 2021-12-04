@@ -1,4 +1,4 @@
-# Realtime dashboard with ReactJS, Go, gRPC, and Envoy'
+# Realtime dashboard with ReactJS, Go, gRPC, and Envoy
 
 ## Build Docker Images
 
